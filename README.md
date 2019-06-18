@@ -13,14 +13,10 @@ $ npm install
 
 ```
 Add Dark Sky API key to forecast.js
-```
 * [Dark Sky](https://darksky.net/dev) 
-```
 
 Add Mapbox API key to geocode.js
-```
 * [Mapbox](https://www.mapbox.com/) 
-```
 
 Check the forecast trough command like
 ```
