@@ -1,6 +1,6 @@
 # Node Js Practice
 ## Weather App
-A simple weeather app run on command line
+A simple command line weather app
 
 * [Node Js Udemy Course](https://www.udemy.com/the-complete-nodejs-developer-course-2) 
 
