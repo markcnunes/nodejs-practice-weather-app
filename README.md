@@ -27,13 +27,12 @@ Check the forecast trough command like
 $ node app.js [LOCATION]
 ```
 Example: 
+```
 $ node app.js London
 ```
 
 ## Built With
-
 * Node Js
 
 ## Author
-
 * **Mark Claus Nunes**
